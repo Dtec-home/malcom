@@ -1,0 +1,28 @@
+{
+    "faculty": [
+      {
+        "id": 1,
+        "name": "Dr. Sarah Thompson",
+        "title": "Professor of Biblical Studies",
+        "education": "Ph.D. in Biblical Studies, Oxford University",
+        "specialization": "Old Testament Literature",
+        "bio": "Dr. Thompson has been teaching Biblical Studies for over 15 years, with a special focus on Old Testament narrative and prophetic literature."
+      },
+      {
+        "id": 2,
+        "name": "Dr. Michael Chen",
+        "title": "Professor of Christian Ethics",
+        "education": "Ph.D. in Theological Ethics, Yale University",
+        "specialization": "Moral Theology",
+        "bio": "Dr. Chen's research focuses on the intersection of Christian ethics and contemporary social issues."
+      },
+      {
+        "id": 3,
+        "name": "Dr. James Wilson",
+        "title": "Professor of Systematic Theology",
+        "education": "Ph.D. in Systematic Theology, Princeton Theological Seminary",
+        "specialization": "Doctrine of God",
+        "bio": "Dr. Wilson brings 20 years of pastoral experience alongside his academic expertise in systematic theology."
+      }
+    ]
+  }

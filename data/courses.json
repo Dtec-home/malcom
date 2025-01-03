@@ -1,0 +1,20 @@
+{
+"courses": [
+    {
+      "id": 1,
+      "title": "Introduction to Biblical Studies",
+      "description": "Foundation course covering Old and New Testament",
+      "duration": "16 weeks",
+      "credits": 3,
+      "instructor": "Dr. Sarah Thompson"
+    },
+    {
+      "id": 2,
+      "title": "Christian Ethics",
+      "description": "Study of moral principles in Christian tradition",
+      "duration": "12 weeks",
+      "credits": 3,
+      "instructor": "Dr. Michael Chen"
+    }
+  ]
+}
