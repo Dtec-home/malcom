@@ -5,7 +5,7 @@ export default function Header() {
     <header className="bg-slate-800 text-white p-4">
       <nav className="max-w-6xl mx-auto flex justify-between items-center">
         <Link href="/" className="text-2xl font-bold">
-          Grace Theological Seminary
+          Malcom Theological Seminary
         </Link>
         <div className="space-x-6">
           <Link href="/about">About</Link>

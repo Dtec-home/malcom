@@ -7,7 +7,7 @@ export default function Footer() {
       <div className="max-w-6xl mx-auto px-4">
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           <div>
-            <h3 className="text-xl font-bold mb-4">Grace Theological Seminary</h3>
+            <h3 className="text-xl font-bold mb-4">Malcom Theological Seminary</h3>
             <p className="text-slate-300">
               Transforming lives through biblical education and spiritual formation.
             </p>
@@ -26,9 +26,9 @@ export default function Footer() {
             <h4 className="font-bold mb-4">Contact</h4>
             <ul className="space-y-2 text-slate-300">
               <li>123 Seminary Drive</li>
-              <li>Grace City, ST 12345</li>
+              <li>Malcom City, ST 12345</li>
               <li>Phone: (555) 123-4567</li>
-              <li>Email: info@graceseminary.edu</li>
+              <li>Email: info@Malcomseminary.edu</li>
             </ul>
           </div>
           
@@ -46,7 +46,7 @@ export default function Footer() {
         </div>
         
         <div className="border-t border-slate-800 mt-8 pt-8 text-center text-slate-300">
-          <p>&copy; {new Date().getFullYear()} Grace Theological Seminary. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} Malcom Theological Seminary. All rights reserved.</p>
         </div>
       </div>
     </footer>

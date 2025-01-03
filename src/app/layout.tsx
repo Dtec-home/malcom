@@ -6,7 +6,7 @@ import './globals.css';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata = {
-  title: 'Grace Theological Seminary',
+  title: 'Malcom Theological Seminary',
   description: 'Transform your calling into ministry through theological education',
 };
 

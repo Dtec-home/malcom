@@ -4,7 +4,7 @@ export default function AboutPage() {
       <main className="min-h-screen">
         <section className="bg-slate-900 text-white py-16">
           <div className="max-w-6xl mx-auto px-4">
-            <h1 className="text-4xl font-bold mb-4">About Grace Theological Seminary</h1>
+            <h1 className="text-4xl font-bold mb-4">About Malcom Theological Seminary</h1>
             <p className="text-xl text-slate-300">Building faithful servants for God&apos;s kingdom since 1950</p>
           </div>
         </section>
@@ -14,7 +14,7 @@ export default function AboutPage() {
             <div>
               <h2 className="text-2xl font-bold mb-4">Our Mission</h2>
               <p className="text-gray-600 mb-6">
-                Grace Theological Seminary exists to educate, equip, and empower the next generation of Christian leaders 
+                Malcom Theological Seminary exists to educate, equip, and empower the next generation of Christian leaders 
                 through rigorous academic study and spiritual formation.
               </p>
               <p className="text-gray-600">
@@ -52,7 +52,7 @@ export default function AboutPage() {
             <h2 className="text-2xl font-bold mb-8 text-center">Our History</h2>
             <div className="prose max-w-none">
               <p className="text-gray-600 mb-4">
-                Founded in 1950, Grace Theological Seminary began with a vision to provide sound theological 
+                Founded in 1950, Malcom Theological Seminary began with a vision to provide sound theological 
                 education that would equip men and women for ministry in a rapidly changing world. What started 
                 with just 12 students has grown into a thriving seminary community of over 500 students from 
                 around the globe.
